@@ -9,7 +9,7 @@ public class assignment1 {
 		panel.setBackground(Color.YELLOW);
 		Graphics g = panel.getGraphics();
 		
-		g.setColor(Color.BLACK);
+		g.setColor(Color.BLUE);
 		g.fillOval(50, 25, 40, 40);
 		g.fillOval(130, 25, 40, 40);
 		
